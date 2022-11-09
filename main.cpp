@@ -135,7 +135,7 @@ int main(){
     }else{
         cout<<"Okk, See you later !";
     }
-
+    getchar();
     return 0;
 }
 

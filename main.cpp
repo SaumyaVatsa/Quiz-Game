@@ -202,7 +202,7 @@ int main(){
                     exit(1);
                 }
             }
-            if(count == 9){
+            if(count == 10){
                 cout << "Hurrray !!! You won the Game!!!"<<endl;
                 p.put();
                 exit(1);
